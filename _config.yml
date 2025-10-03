@@ -10,7 +10,6 @@
 locale                   : "en-US"
 title                    : Gavin Sneyd
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
 name                     : Gavin Sneyd
 description              : Gavin Sneyd - Projects and CV 
 baseurl                  : "/portfolio-ges253-ctrl" # Set this to your repo name
