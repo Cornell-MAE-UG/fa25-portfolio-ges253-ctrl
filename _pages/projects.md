@@ -17,7 +17,3 @@ permalink: /projects/
           <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
           <p>{{ project.title}}</p>
         </a>
-      </div>
-    {% endfor %}
-</div>
-</div>
