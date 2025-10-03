@@ -13,7 +13,11 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Gavin Sneyd
 description              : Gavin Sneyd - Projects and CV 
+<<<<<<< HEAD
 baseurl                  : "" # Set this to your repo name 
+=======
+baseurl                  : "/fall-2025-portfolio-Sneyd/" # Set this to your repo name 
+>>>>>>> d7431c5 (<Commit Edit>)
 
 # Theme and Style
 theme: jekyll-theme-minimal
@@ -30,7 +34,7 @@ collections:
     output: true
   projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /projects/:path/
 
 # Markdown
 markdown: kramdown
